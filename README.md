@@ -19,4 +19,5 @@ Welcome to my technical portfolio! I'm a passionate software engineer focused on
 
 ## 📬 Contact
 📧 diogo.guerreiro3@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/diogo-guerreiro3)
