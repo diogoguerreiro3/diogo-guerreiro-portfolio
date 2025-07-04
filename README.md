@@ -1,4 +1,4 @@
-# 👋 Diogo Guerreiro – Full Stack Developer | Cybersecurity | Media Systems – Technical Portfolio
+# 🧑‍💻 Diogo Guerreiro – Full Stack Developer | Cybersecurity | Media Systems – Technical Portfolio
 
 Welcome to my technical portfolio! I'm a passionate software engineer focused on backend systems, cybersecurity, and multimedia/streaming technology. I specialize in Java, Python, Cloud, and enjoy building tools that combine performance, security and innovation.
 
